@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shukriyah Dean
-- 👀 I’m interested in becoming a certified software engineer and transition to tech from lab research
+- 👀 I’m interested in training to become a software engineer and transition to tech from lab research
 - 🌱 I’m currently learning HTML, CSS, and JavaScript and plan on learning Java and C++ after. 
-- 💞️ I’m looking to collaborate on front-end projects 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 You can reach me through my email: shukriyahdean@gmail.com, or through my linkedin: https://www.linkedin.com/in/shukriyahdean/
 
 <!---
